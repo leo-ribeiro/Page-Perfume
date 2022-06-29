@@ -9,21 +9,27 @@
 
 }
 
-.attribution { 
+/* .attribution { 
     font-size: 11px; text-align: center; 
 }
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+} */
+
+body {
+    width: 100%;
+    background-color: #F2E9E2;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .container {
     display: flex;
-    background-color: #F2E9E2;
+    border: 10px solid crimson;
+    font-family: 'Fraunces', serif;
   }
 
-  .principal {
-
+  .imagem {
   }
 
   .itens {
