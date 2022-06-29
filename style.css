@@ -6,7 +6,7 @@
 }
 
 :root {
-    
+
 }
 
 .attribution { 
@@ -19,6 +19,7 @@
 
 .container {
     display: flex;
+    background-color: #F2E9E2;
   }
 
   .principal {
