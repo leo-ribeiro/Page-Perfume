@@ -8,14 +8,19 @@
 body {
     background-color: #F2E9E2;
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 .container {
     display: flex;
-    border: 5px solid crimson;
+    justify-content: center;
     font-family: 'Fraunces', serif;
-    height: 50vh;
-    width: 50vw;
+    height: 410px;
+    width: 800px;
+    background-color: #fff;
+    margin-left: 300px;
+    margin-top: 200px;
+    margin-bottom: 200px;
   }
 
   .imagem {
