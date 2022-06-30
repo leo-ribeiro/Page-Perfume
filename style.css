@@ -45,7 +45,20 @@
   .itens {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    padding: 20px;
+    /* justify-content: center;
+    align-items: center; */
+  }
 
+  p {
+    font-family: 'Montserrat', sans-serif;
+    color: #b3bce1;
+    font-size: 15px;
+    padding-bottom: 10px;
+  }
+
+  .descricao-item {
+    font-family: 'Montserrat', sans-serif;
+    color: #b3bce1;
+    font-size: 11px;
   }
