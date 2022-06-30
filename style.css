@@ -5,13 +5,21 @@
     padding: 0;
 }
 
-body {
+/* body {
     background-color: #F2E9E2;
     font-family: 'Montserrat', sans-serif;
     
-}
+} */
 
 .container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #F2E9E2;
+  /* align-content: center; */
+}
+
+.produto {
     display: flex;
     justify-content: center;
     font-family: 'Fraunces', serif;
@@ -25,8 +33,7 @@ body {
   }
 
   .imagem {
-    display: flex;
-    justify-content: center;
+  
   }
 
   .itens {
